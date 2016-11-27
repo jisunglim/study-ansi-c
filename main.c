@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello, world! My name is jisung.");
+    printf("Hello, world!");
 }
