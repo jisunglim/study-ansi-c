@@ -33,7 +33,7 @@ int main()
     long double lde = 3.14e3l;
 
     char str[] = "But when things get tough—and they will, "
-            "especially if you’re a woman, a perso                                                                                                     n of color, "
+            "especially if you’re a woman, a person of color, "
             "or anyone who is challenging the status quo—just "
             "remember what you’re fighting for, take a deep breath, and keep going.";
 
